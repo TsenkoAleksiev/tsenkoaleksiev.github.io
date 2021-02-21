@@ -95,7 +95,7 @@ projects:
       There are also tasks that I did during my programming course.
     assignments:
       - title: Start^IT coding challenges
-        link: "https://github.com/TsenkoAleksiev/startit"
+        link: "https://github.com/TsenkoAleksiev/start-it-submissions"
         tagline: "Some coding challenges from my Java course."
 #
 #publications:
