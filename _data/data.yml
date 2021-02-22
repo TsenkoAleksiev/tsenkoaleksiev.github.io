@@ -36,7 +36,7 @@ sidebar:
         level: Native
 
     interests:
-      - item: PC Gaming
+      - item: Fitness
         link:
 
       - item: Coding
@@ -73,21 +73,33 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Branch Office Manager
-      time: 2017 - 2020
-      company: Generali Insurance Bulgaria
+    - role: BRANCH MANAGER
+      time: MARCH, 2017 - SEPTEMBER, 2020
+      company: GENERALI INSURANCE BULGARIA
       details: |
-        Most of my job obligations included direct service to corporate and direct clients, insurance brokers
-        and various suppliers. Some of my other responsibilites were also control the execution of the
-        financial plan and all the normal actions for normal functioning of the represented branch.
-    - role: Insurance Specialist
-      time: 2008 - 2017
-      company: Allianz Bulgaria, LevIns AD
+          - DIRECT MANAGEMENT OF EMPLOYEES AND INSURANCEAGENTS, INCLUDINGTRAININGS AND BRIEFINGS
+          - SERVICE DIRECT AND CORPORATE CLIENTS ( MUNICIPALITYOF POMORIE )
+          - SERVICE LOCAL AND NATIONAL INSURANCE BROKERS -ISSUING POLICIES, REPORTING,TRAININGS, NEGOTIATING
+          - HANDLING AUTOMOTIVE CLAIMS WHICH INCLUDES:INVESTIGATING THE FACTS, CONCERNING THE LOSS,INSPECTION
+            OF DAMAGED VEHICLES, ASSEMBLING THENECESSARY DOCUMENTS, NEGOTIATING WITH CLIENTS TOSETTLE THE CLAIM
+    - role: CLAIMS AND RISK MANAGEMENT DEPT. SPECIALIST
+      time: MARCH, 2013 - OCTOBER, 2013
+      company: ALLIANZ BULGARIA CENTRAL OFFICE
       details: |
-        Day to day service of corporate clients and insurance brokers, comunication with executives, government institutions.
-          - Insurance Expert, LevIns AD, Burgas                                         2016 - 2017
-          - Claims and Risk Management Department Expert, Allianz Bulgaria, Sofia       2013 - 2013
-          - Non - Life Insurance Specialist, Allianz Bulgaria, Sofia                    2008 - 2013
+          - HANDLING PROPERTY CLAIMS: INVESTIGATING THE FACTSCONCERNING THE LOSS,CLARIFYING THE COVERAGE,INSPECTION
+            OF ACCIDENT SITES, AND INSPECTIONOFDAMAGED PROPERTY AND DOCUMENTING IT,ASSEMBLING THE NECESSARYDOCUMENTS,
+            NEGOTIATINGWITH CLIENTS TO SETTLE THE CLAIM.
+          - RESERVING AND INFORMING SUPERIORS OF DETAILS
+          - PREPARING DETAILED REPORTS
+    - role: NON - LIFE INSURANCE EXPERT
+        time: JUNE, 2008 - MARCH, 2013
+        company: ALLIANZ BULGARIA
+        details: |
+          - DIRECT SERVICE AND INSPECTION TO OVER THAN 80INSURANCE AGENTS, SERVING MOST OF THE NATIONALINSURANCE BROKERS
+            ON A CENTRALISED LEVEL AND DAY-TO-DAY SERVICE TO DIRECT CLIENTS OF THE GENERAL REPRESENTATIVE
+          - ISSUING INSURANCE POLICIES AND CONSULTANCY:AUTOMOTIVE, PROPERTY, LIABILITY, MEDICAL, ACCIDENT,CARGO
+          - DIRECT COMUNICATION AND SERVICE TO CORPORATECLIENTS: BULGARIAN POSTS, MINISTRY OF FOREIGNAFFAIRS, MERCEDES
+            BULGARIA, EURO ALLIANCEENGENEERING, ETC.
 projects:
     title: Projects
     intro: >
